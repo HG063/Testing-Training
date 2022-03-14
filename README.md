@@ -224,9 +224,11 @@ H.	Day 8
 8.5 Data Driven 
 8.6 Page object model 
 
-9 Pytest Framework in details 
-10 Request Module in details 
-11 Django Rest Framework in details 
+9. Pytest Framework in details 
+
+10. Request Module in details 
+
+11. Django Rest Framework in details 
 
 I.	Day 9
  
